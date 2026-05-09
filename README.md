@@ -1,6 +1,6 @@
-# 📚 Research Paper Q&A Chatbot
+# 📚 RAG QnA Chatbot using Ollama Embeddings
 
-An AI-powered Research Paper Question Answering application built using Streamlit, LangChain, FAISS, Ollama Embeddings, and Groq LLMs.
+An AI-powered RAG Question Answering application built using Streamlit, LangChain, FAISS, Ollama Embeddings, and Groq LLMs.
 
 This application allows users to upload and process research papers (PDFs) and ask questions based on the document content using Retrieval-Augmented Generation (RAG).
 
